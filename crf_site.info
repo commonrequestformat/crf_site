@@ -1,0 +1,24 @@
+name = CRF Site
+description = Install a CRF Site
+core = 7.x
+
+dependencies[] = humanitarianresponse_core
+dependencies[] = humanitarianresponse_page
+dependencies[] = humanitarianresponse_clusters
+dependencies[] = humanitarianresponse_cluster_obj
+dependencies[] = humanitarianresponse_clusters_data
+dependencies[] = humanitarianresponse_minimal_layout
+dependencies[] = humanitarianresponse_users
+dependencies[] = humanitarianresponse_contacts
+
+dependencies[] = crf_sitrep
+dependencies[] = crf_ind_data_batch
+dependencies[] = crf_sec_analysis
+dependencies[] = crf_requests
+dependencies[] = crf_assessments_batch
+dependencies[] = crf_contacts_upload
+dependencies[] = crf_workflow
+dependencies[] = workflow_submit
+
+
+
