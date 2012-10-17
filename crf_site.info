@@ -19,9 +19,6 @@ dependencies[] = crf_contacts_upload
 dependencies[] = crf_workflow
 files[] = crf_site.profile
 
-version = "master-dev"
-project = "crf_site"
-datestamp = "1342528393"
 
 
 
