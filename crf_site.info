@@ -22,6 +22,7 @@ dependencies[] = crf_assessments_batch
 dependencies[] = crf_contacts_upload
 dependencies[] = crf_users
 dependencies[] = crf_workbench
+dependencies[] = crf_fts_message
 files[] = crf_site.profile
 
 
