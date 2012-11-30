@@ -26,6 +26,7 @@ dependencies[] = crf_workbench
 dependencies[] = crf_fts_message
 dependencies[] = crf_pipeline_monitoring
 dependencies[] = crf_humanitarian_bulletin
+dependencies[] = crf_chf_erf
 files[] = crf_site.profile
 
 
