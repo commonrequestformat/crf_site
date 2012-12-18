@@ -6,5 +6,6 @@
  * Perform actions to set up the site for this profile.
  */
 function crf_site_install() {
+  node_access_rebuild();
 }
 
