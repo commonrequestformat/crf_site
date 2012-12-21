@@ -25,6 +25,7 @@ dependencies[] = crf_contacts_upload
 dependencies[] = crf_pipeline_monitoring
 dependencies[] = crf_humanitarian_bulletin
 dependencies[] = crf_3w_data
+dependencies[] = crf_baseline_data
 files[] = crf_site.profile
 
 
