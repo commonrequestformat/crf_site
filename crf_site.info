@@ -3,7 +3,6 @@ description = Install a CRF Site
 core = 7.x
 
 dependencies[] = humanitarianresponse_core
-dependencies[] = humanitarianresponse_page
 dependencies[] = humanitarianresponse_clusters
 dependencies[] = humanitarianresponse_clusters_data
 dependencies[] = humanitarianresponse_emergencies
@@ -13,7 +12,6 @@ dependencies[] = humanitarianresponse_organizations_data
 dependencies[] = humanitarianresponse_minimal_layout
 dependencies[] = humanitarianresponse_contacts
 dependencies[] = hr_cluster_objectives
-;dependencies[] = hr_help
 dependencies[] = crf_users
 dependencies[] = crf_requests
 dependencies[] = crf_non_cluster_requests
