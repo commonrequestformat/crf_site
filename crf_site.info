@@ -15,6 +15,7 @@ dependencies[] = hr_cluster_objectives
 dependencies[] = crf_users
 dependencies[] = crf_requests
 dependencies[] = crf_non_cluster_requests
+dependencies[] = crf_internal_request
 dependencies[] = crf_sitrep
 dependencies[] = crf_indicator_data_batch
 dependencies[] = crf_sectoral_analysis
