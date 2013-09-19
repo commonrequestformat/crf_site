@@ -7,7 +7,7 @@ dependencies[] = humanitarianresponse_clusters
 dependencies[] = humanitarianresponse_emergencies
 dependencies[] = humanitarianresponse_organizations
 dependencies[] = humanitarianresponse_minimal_layout
-dependencies[] = humanitarianresponse_contacts
+;dependencies[] = humanitarianresponse_contacts
 dependencies[] = hr_cluster_objectives
 dependencies[] = crf_core
 dependencies[] = crf_users
@@ -19,8 +19,4 @@ dependencies[] = crf_request
 ;dependencies[] = crf_assessments_batch
 ;dependencies[] = crf_contacts_upload
 files[] = crf_site.profile
-
-
-
-
 
